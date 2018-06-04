@@ -1,0 +1,2 @@
+webpackJsonp([1],{"2fUP":function(t,n){},KROR:function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"classification"},[this._v("\n  classification\n")])},staticRenderFns:[]};var i=e("VU/8")({name:"classification",data:function(){return{}},components:{},created:function(){},methods:{}},a,!1,function(t){e("2fUP")},"data-v-b9d082a8",null);n.default=i.exports}});
+//# sourceMappingURL=1.85ed05c589843d7ebf19.js.map
